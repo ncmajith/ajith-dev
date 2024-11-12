@@ -1,6 +1,6 @@
 const ContactContentLayout = () => {
   return (
-    <form className="w-full max-w-lg">
+    <form className="md:w-96 sm:w-80 w-72">
       <label
         htmlFor="grid-first-name"
         className="block uppercase tracking-wide text-gray-700 dark:text-gray-300 text-xs font-bold mb-2"
